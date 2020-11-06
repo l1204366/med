@@ -19,6 +19,14 @@ Source: (mostly from NTUH)
 [血糖血脂記錄表](https://health.ntuh.gov.tw/health/%E8%A1%9B%E6%95%99%E5%96%AE%E5%BC%B5/%E8%A1%80%E7%B3%96%E8%A1%80%E8%84%82%E8%A8%98%E9%8C%84%E8%A1%A8.pdf)\
 [飲食紀錄表](https://health.ntuh.gov.tw/health/%E8%A1%9B%E6%95%99%E5%96%AE%E5%BC%B5/%E9%A3%B2%E9%A3%9F%E7%B4%80%E9%8C%84%E8%A1%A8.pdf)
 
+## Diet
+[飲食衛教單張_低普林飲食](https://l1204366.github.io/med/飲食衛教單張_低普林飲食.pdf)\
+[飲食衛教單張_低油飲食](https://l1204366.github.io/med/飲食衛教單張_低油飲食.pdf)\
+[飲食衛教單張_低渣飲食](https://l1204366.github.io/med/飲食衛教單張_低渣飲食.pdf)\
+[飲食衛教單張_低膽固醇飲食](https://l1204366.github.io/med/飲食衛教單張_低膽固醇飲食.pdf)\
+[飲食衛教單張_慢性腎臟病飲食](https://l1204366.github.io/med/飲食衛教單張_慢性腎臟病飲食.pdf)\
+[飲食衛教單張_糖尿病飲食](https://l1204366.github.io/med/飲食衛教單張_糖尿病飲食.pdf)
+
 ## Exercise
 [全民身體活動指引-成年人篇](https://l1204366.github.io/med/全民身體活動指引-成年人篇.pdf)\
 [全民身體活動指引-孕產婦篇](https://l1204366.github.io/med/全民身體活動指引-孕產婦篇.pdf)\

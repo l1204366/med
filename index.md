@@ -49,6 +49,7 @@ Source: (mostly from NTUH)
 [中風黃金時間](https://health.ntuh.gov.tw/health/forms/txt/16_%E4%B8%AD%E9%A2%A83%E5%B0%8F%E6%99%82.pdf)
 
 ## Headache
+[偏頭痛管理](https://l1204366.github.io/med/偏頭痛管理.pdf)\
 [頭痛日誌](http://www.taiwanheadache.com.tw/doc/Diary.pdf)
 
 ## Insomnia
